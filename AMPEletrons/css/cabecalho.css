@@ -1,0 +1,27 @@
+body{
+    width: 1000px;
+    margin: auto;
+}
+
+#cabecalho{
+    margin: 0px;
+    width: 100%;
+    padding: 0px;
+    text-align: center;    
+}
+
+#cabecalho img{
+    width: 750px;
+}
+
+@media screen and (max-width: 1000px) {
+    body{
+        width: 100%;
+    }    
+}
+
+@media screen and (max-width: 750px) {    
+    #cabecalho img{
+        width: 350px;
+    }
+}

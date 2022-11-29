@@ -1,0 +1,38 @@
+main{
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+.jumbotron{
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+#carouselExampleCaptions,
+.carousel-inner{
+    border-radius: 15px;
+}
+
+#carouselitem{
+    height: 350px;
+    border-radius: 15px;
+}    
+
+h1{
+    text-align: center;
+}
+
+.carousel-item h5,
+.title-carrousel{
+    font-weight: bold; 
+    font-size: 27px; 
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #000;
+}
+
+@media screen and (max-width: 640px) {
+           
+    #carouselitem{        
+        width: 100%;
+    } 
+}
