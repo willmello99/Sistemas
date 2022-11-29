@@ -1,0 +1,16 @@
+﻿[spContent]
+Coordinates=10,124,65,33
+
+[StatusBar]
+Coordinates=75,10,62,51
+
+[]
+Coordinates=190,78,62,33
+Visible=True
+
+[pnlControlsMidia]
+Coordinates=10,10,47,51
+
+[pnlMain]
+Coordinates=156,10,47,51
+
